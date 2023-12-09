@@ -1,0 +1,3 @@
+30/01/2023;Cirurgia;;Maria Inês;20;1
+14/02/2023;Vacina;;Maria Inês;40;3
+21/02/2023;Vacina;;Joaquim ;40;4

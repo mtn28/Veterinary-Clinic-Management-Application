@@ -1,0 +1,3 @@
+Alice;04/01/2023;965784123;Kiko;1;04/05/2022;8;M;lavrador;cão;Castanho;Porte grande
+João;15/12/2022;935415874;Woody;3;16/08/2020;6;M;Persa;Gato;Amarelo tigrado;Porte Pequeno
+Mário;30/11/2022;916821444;Balú;4;08/06/2021;15;M;Pastor Alemão;Cão;Preto e castanho;Porte grande

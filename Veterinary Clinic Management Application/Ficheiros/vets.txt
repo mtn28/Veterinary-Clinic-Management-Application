@@ -1,0 +1,3 @@
+Maria Inês;05/05/1977;915745865;78;Feridas
+Américo;04/02/1999;964951273;35;Cardiologia
+Joaquim ;19/03/1987;925565787;63;Vacinação
